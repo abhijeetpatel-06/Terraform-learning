@@ -1,13 +1,2 @@
-its a  third frerbury 31
-28# Terraform
-Terraform releted things
-in this we learn everything a about Terraform.
-this is easy
-Terraform main file containing every condition follow 
-Terraform init
-hi this is another one
-its a Republic day
-its a fe h republic day.
-29
-its thirty
-Its first February
+This is a Terraform Guide For  one who want to learn terraform.
+I am so Gratefull for my life i have. I am a Megnet who attrect money reletionship success in my life universe align everything for me. i am open to recive everything
