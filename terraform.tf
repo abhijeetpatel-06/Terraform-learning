@@ -1,0 +1,1 @@
+This is Terraform.tf file which is used to store the Terraform file which is store the state of infrastructure 
